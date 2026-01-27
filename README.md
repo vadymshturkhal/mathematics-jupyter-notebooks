@@ -10,4 +10,5 @@ You can run these notebooks directly in **Google Colab** without installing anyt
 4. Select **File → Open notebook**
 5. Choose the **GitHub** tab.
 6. Paste the notebook URL and click **Open**.
+7. Ignore first two "watermark" cells.
 
